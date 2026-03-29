@@ -1,0 +1,26 @@
+========================================
+  MY OPEN SOURCE MANIFESTO
+  Author : Vaidehi Dadheech
+  User   : linux
+  Date   : 27 March 2026
+  Software Audited: Linux Kernel (GPL v2)
+========================================
+
+Every day, I rely on Linux — a piece of software
+that someone built, shared, and refused to lock away.
+To me, freedom means Choice.
+That single word is why the Linux Kernel exists.
+
+In 1991, Linus Torvalds did not have to share his
+work. He chose to — and in doing so, he gave the
+world a foundation that powers billions of devices.
+
+I believe in that same spirit. One day I want to
+build an Operating system — and I will share it freely, the way
+the kernel was shared with the world.
+Because open source is not just a licence.
+It is a promise: knowledge belongs to everyone.
+
+========================================
+  Signed: Vaidehi Dadheech  |  27 March 2026
+========================================
