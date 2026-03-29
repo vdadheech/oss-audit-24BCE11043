@@ -38,10 +38,10 @@
 ### Steps
 
 1. Clone the repository:
-   git clone [https://github.com/abhinav-atul/oss-audit-24BCE10716.git](https://github.com/vdadheech/oss-audit-24BCE11043)
+   git clone [https://github.com/vdadheech/oss-audit-24BCE11043](https://github.com/vdadheech/oss-audit-24BCE11043)
 
 2. Navigate into the folder:
-   cd oss-audit-24BCE10716
+   cd oss-audit-24BCE11043
 
 3. Make scripts executable:
    chmod +x *.sh
