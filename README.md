@@ -36,7 +36,7 @@
 ### Steps
 
 1. Clone the repository:
-   git clone [https://github.com/abhinav-atul/oss-audit-24BCE10716.git](https://github.com/abhinav-atul/oss-audit-24BCE10716.git)
+   git clone [https://github.com/abhinav-atul/oss-audit-24BCE10716.git](https://github.com/vdadheech/oss-audit-24BCE11043)
 
 2. Navigate into the folder:
    cd oss-audit-24BCE10716
